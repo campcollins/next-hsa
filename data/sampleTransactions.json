@@ -1,0 +1,502 @@
+[
+    {
+      "bank_memo": "CVS PHARMACY #4521 Mountain View CA TRN-0D1B5F",
+      "amount": 45.50,
+      "mcc": "5912"
+    },
+    {
+      "bank_memo": "SF GENERAL HOSPITAL San Francisco CA TRN-E9F3A6",
+      "amount": 250.00,
+      "mcc": "8062"
+    },
+    {
+      "bank_memo": "DR. SMITH DENTAL San Jose CA TRN-7C81A4",
+      "amount": 120.00,
+      "mcc": "8021"
+    },
+    {
+      "bank_memo": "URGENT CARE EXPRESS Palo Alto CA TRN-3B2D7E",
+      "amount": 75.00,
+      "mcc": "8011"
+    },
+    {
+      "bank_memo": "ALLIANCE HEALTH SERVICES New York NY TRN-A8E5C9",
+      "amount": 150.00,
+      "mcc": "8099"
+    },
+    {
+      "bank_memo": "MEMORIAL HEALTH PHARMACY Houston TX TRN-F4C9B1",
+      "amount": 22.50,
+      "mcc": "5912"
+    },
+    {
+      "bank_memo": "CITY SPORTS CHIROPRAC Chicago IL TRN-B7D4F2",
+      "amount": 70.00,
+      "mcc": "8041"
+    },
+    {
+      "bank_memo": "MASS GENERAL OUTPATIENT Boston MA TRN-2E6C9D",
+      "amount": 40.00,
+      "mcc": "8011"
+    },
+    {
+      "bank_memo": "SEATTLE VISION CLINIC Seattle WA TRN-6F1D3E",
+      "amount": 180.00,
+      "mcc": "8042"
+    },
+    {
+      "bank_memo": "HEALTHCARE LABS CORP Miami FL TRN-5A8E2B",
+      "amount": 65.75,
+      "mcc": "8071"
+    },
+    {
+      "bank_memo": "FAMILY DENTAL CARE INC Denver CO TRN-9C5B4E",
+      "amount": 105.00,
+      "mcc": "8021"
+    },
+    {
+      "bank_memo": "ACUPUNCTURE THERAPY Atlanta GA TRN-D1A7B3",
+      "amount": 50.00,
+      "mcc": "8099"
+    },
+    {
+      "bank_memo": "DOWNTOWN PEDIATRICS Los Angeles CA TRN-8E2A7F",
+      "amount": 110.00,
+      "mcc": "8011"
+    },
+    {
+      "bank_memo": "MEDICAL SUPPLY STORE 012 Dallas TX TRN-4C9D2E",
+      "amount": 45.00,
+      "mcc": "5999"
+    },
+    {
+      "bank_memo": "ARIZONA PHYSICAL THERAPY Phoenix AZ TRN-7A5B1D",
+      "amount": 60.00,
+      "mcc": "8049"
+    },
+    {
+      "bank_memo": "PENN MEDICINE Philadelphia PA TRN-F3D1C8",
+      "amount": 95.00,
+      "mcc": "8099"
+    },
+    {
+      "bank_memo": "CAPITAL HEALTH DENTAL Washington DC TRN-B9A2C5",
+      "amount": 85.00,
+      "mcc": "8021"
+    },
+    {
+      "bank_memo": "VEGAS URGENT CARE Las Vegas NV TRN-6D8E4F",
+      "amount": 70.00,
+      "mcc": "8011"
+    },
+    {
+      "bank_memo": "OHSU HOSPITAL Portland OR TRN-5C1A7B",
+      "amount": 200.00,
+      "mcc": "8062"
+    },
+    {
+      "bank_memo": "AUSTIN VISION CENTER Austin TX TRN-3E2A9D",
+      "amount": 55.00,
+      "mcc": "8042"
+    },
+    {
+      "bank_memo": "SCRIPPS PHARMACY San Diego CA TRN-9D6C8F",
+      "amount": 35.00,
+      "mcc": "5912"
+    },
+    {
+      "bank_memo": "UTAH HEALTH LABS Salt Lake City UT TRN-1C8A4B",
+      "amount": 85.75,
+      "mcc": "8071"
+    },
+    {
+      "bank_memo": "ORTHOPEDIC SPECIALISTS Charlotte NC TRN-D4F6E9",
+      "amount": 130.00,
+      "mcc": "8099"
+    },
+    {
+      "bank_memo": "FAMILY MEDICINE OF TENNESSEE Nashville TN TRN-B2E7C4",
+      "amount": 110.00,
+      "mcc": "8011"
+    },
+    {
+      "bank_memo": "INDIANAPOLIS DENTAL CLINIC Indianapolis IN TRN-A9C3B1",
+      "amount": 125.00,
+      "mcc": "8021"
+    },
+    {
+      "bank_memo": "JACKSONVILLE HOSPITAL CO-PAY Jacksonville FL TRN-C5E1A8",
+      "amount": 150.00,
+      "mcc": "8062"
+    },
+    {
+      "bank_memo": "MED SUPPLIES RENTAL Louisville KY TRN-F2A4C9",
+      "amount": 30.00,
+      "mcc": "5999"
+    },
+    {
+      "bank_memo": "TUCSON PHYSICAL THERAPY Tucson AZ TRN-7E5D1C",
+      "amount": 60.00,
+      "mcc": "8049"
+    },
+    {
+      "bank_memo": "CLEVELAND CLINIC LAB Cleveland OH TRN-4B9F3E",
+      "amount": 75.00,
+      "mcc": "8071"
+    },
+    {
+      "bank_memo": "ORTHODONTIST SERVICES Memphis TN TRN-6C2E1F",
+      "amount": 90.00,
+      "mcc": "8021"
+    },
+    {
+      "bank_memo": "VISION SOURCE Portland OR TRN-D8F4E2",
+      "amount": 70.00,
+      "mcc": "8042"
+    },
+    {
+      "bank_memo": "AUSTIN CHIROPRACTIC Austin TX TRN-A1C9D6",
+      "amount": 65.00,
+      "mcc": "8041"
+    },
+    {
+      "bank_memo": "SAN ANTONIO PEDIATRICS San Antonio TX TRN-F3D2A9",
+      "amount": 120.00,
+      "mcc": "8011"
+    },
+    {
+      "bank_memo": "ORLANDO DENTAL PARTNERS Orlando FL TRN-B4E9F1",
+      "amount": 115.00,
+      "mcc": "8021"
+    },
+    {
+      "bank_memo": "KANSAS CITY HEALTH PHARMACY Kansas City MO TRN-7A9C5F",
+      "amount": 28.00,
+      "mcc": "5912"
+    },
+    {
+      "bank_memo": "MENTAL HEALTH SERVICES Indianapolis IN TRN-3B2E9D",
+      "amount": 80.00,
+      "mcc": "8049"
+    },
+    {
+      "bank_memo": "JACKSONVILLE HOSPITAL CO-PAY Jacksonville FL TRN-D5F1A8",
+      "amount": 250.00,
+      "mcc": "8062"
+    },
+    {
+      "bank_memo": "OPTOMETRY CENTER Columbus OH TRN-1C9D4E",
+      "amount": 60.00,
+      "mcc": "8042"
+    },
+    {
+      "bank_memo": "TN ACUPUNCTURE CLINIC Nashville TN TRN-F8A2D9",
+      "amount": 55.00,
+      "mcc": "8099"
+    },
+    {
+      "bank_memo": "RALEIGH URGENT CARE Raleigh NC TRN-B4D1C6",
+      "amount": 80.00,
+      "mcc": "8011"
+    },
+    {
+      "bank_memo": "CHILDREN'S HOSPITAL Denver CO TRN-6E2A5D",
+      "amount": 180.00,
+      "mcc": "8062"
+    },
+    {
+      "bank_memo": "SEATTLE SPINE AND SPORTS Seattle WA TRN-9C3F1A",
+      "amount": 90.00,
+      "mcc": "8041"
+    },
+    {
+      "bank_memo": "INTERMOUNTAIN LABS Salt Lake City UT TRN-A7E1D4",
+      "amount": 70.00,
+      "mcc": "8071"
+    },
+    {
+      "bank_memo": "BOSTON DENTAL GROUP Boston MA TRN-E4F2C1",
+      "amount": 130.00,
+      "mcc": "8021"
+    },
+    {
+      "bank_memo": "ILLINOIS GENERAL HOSPITAL Chicago IL TRN-7D9C6A",
+      "amount": 300.00,
+      "mcc": "8062"
+    },
+    {
+      "bank_memo": "MIAMI PEDIATRIC SERVICES Miami FL TRN-C5E8F4",
+      "amount": 120.00,
+      "mcc": "8011"
+    },
+    {
+      "bank_memo": "NEW YORK PSYCHOLOGY GROUP New York NY TRN-2A1B4D",
+      "amount": 100.00,
+      "mcc": "8049"
+    },
+    {
+      "bank_memo": "HOUSTON OPTICAL CENTER Houston TX TRN-D8F4E2",
+      "amount": 95.00,
+      "mcc": "8042"
+    },
+    {
+      "bank_memo": "LA PHYSICAL THERAPY CENTER Los Angeles CA TRN-B1A9D4",
+      "amount": 85.00,
+      "mcc": "8049"
+    },
+    {
+      "bank_memo": "ARIZONA DERMATOLOGY Phoenix AZ TRN-8C9F7E",
+      "amount": 150.00,
+      "mcc": "8099"
+    },
+    {
+      "bank_memo": "STARBUCKS #1873 Mountain View CA TRN-8C9A4B",
+      "amount": 5.75,
+      "mcc": "5814"
+    },
+    {
+      "bank_memo": "TARGET #5610 San Francisco CA TRN-F4E1D3",
+      "amount": 75.00,
+      "mcc": "5411"
+    },
+    {
+      "bank_memo": "PANDA EXPRESS #908 San Jose CA TRN-3B2E1C",
+      "amount": 12.50,
+      "mcc": "5814"
+    },
+    {
+      "bank_memo": "CHEVRON STATION 19 Palo Alto CA TRN-A8C5B9",
+      "amount": 45.00,
+      "mcc": "5541"
+    },
+    {
+      "bank_memo": "AMC THEATRES 12 New York NY TRN-F1D7E8",
+      "amount": 25.00,
+      "mcc": "7832"
+    },
+    {
+      "bank_memo": "24 HOUR FITNESS Houston TX TRN-B4E9C1",
+      "amount": 50.00,
+      "mcc": "7997"
+    },
+    {
+      "bank_memo": "WAREHOUSE GROCERY Chicago IL TRN-6C8A4F",
+      "amount": 115.00,
+      "mcc": "5411"
+    },
+    {
+      "bank_memo": "BOSTON COMMUTER RAIL Boston MA TRN-9D2E5B",
+      "amount": 15.00,
+      "mcc": "4112"
+    },
+    {
+      "bank_memo": "HOME DEPOT #458 Seattle WA TRN-5A1C8D",
+      "amount": 65.00,
+      "mcc": "5200"
+    },
+    {
+      "bank_memo": "ONLINE PAYMENT Miami FL TRN-D7F2A4",
+      "amount": 15.00,
+      "mcc": "5817"
+    },
+    {
+      "bank_memo": "PETCO #321 Denver CO TRN-8E3B6C",
+      "amount": 45.00,
+      "mcc": "5995"
+    },
+    {
+      "bank_memo": "UBER TRIP Atlanta GA TRN-C5E1F9",
+      "amount": 22.00,
+      "mcc": "4121"
+    },
+    {
+      "bank_memo": "WESTSIDE SALON Los Angeles CA TRN-2A9C7F",
+      "amount": 40.00,
+      "mcc": "7230"
+    },
+    {
+      "bank_memo": "NORDSTROM RACK Dallas TX TRN-4B1D6E",
+      "amount": 85.00,
+      "mcc": "5651"
+    },
+    {
+      "bank_memo": "SUNNY'S STEAKHOUSE Phoenix AZ TRN-F9A5D1",
+      "amount": 75.00,
+      "mcc": "5812"
+    },
+    {
+      "bank_memo": "WHOLE FOODS #777 Philadelphia PA TRN-3C2B1D",
+      "amount": 95.00,
+      "mcc": "5411"
+    },
+    {
+      "bank_memo": "GEORGETOWN COFFEE Washington DC TRN-B4E9C1",
+      "amount": 6.50,
+      "mcc": "5814"
+    },
+    {
+      "bank_memo": "ZAPPOS.COM Las Vegas NV TRN-7A5B1D",
+      "amount": 55.00,
+      "mcc": "5651"
+    },
+    {
+      "bank_memo": "TARGET #888 Portland OR TRN-D2E8F4",
+      "amount": 45.00,
+      "mcc": "5411"
+    },
+    {
+      "bank_memo": "AUSTIN PIZZA JOINT Austin TX TRN-9C3F1A",
+      "amount": 20.50,
+      "mcc": "5812"
+    },
+    {
+      "bank_memo": "HOME DEPOT #999 San Diego CA TRN-A1C9D6",
+      "amount": 35.00,
+      "mcc": "5200"
+    },
+    {
+      "bank_memo": "WALGREENS #457 Salt Lake City UT TRN-F3D2A9",
+      "amount": 15.00,
+      "mcc": "5977"
+    },
+    {
+      "bank_memo": "CAR WASH USA Charlotte NC TRN-B4E9F1",
+      "amount": 18.00,
+      "mcc": "7542"
+    },
+    {
+      "bank_memo": "NASHVILLE FITNESS Nashville TN TRN-7A9C5F",
+      "amount": 65.00,
+      "mcc": "7997"
+    },
+    {
+      "bank_memo": "BOOKSTORE 101 Indianapolis IN TRN-3B2E9D",
+      "amount": 25.00,
+      "mcc": "5942"
+    },
+    {
+      "bank_memo": "AMAZON.COM Jacksonville FL TRN-D5F1A8",
+      "amount": 45.00,
+      "mcc": "5399"
+    },
+    {
+      "bank_memo": "SHELL STATION Louisville KY TRN-1C9D4E",
+      "amount": 40.00,
+      "mcc": "5541"
+    },
+    {
+      "bank_memo": "TUCSON COFFEE SHOP Tucson AZ TRN-F8A2D9",
+      "amount": 5.50,
+      "mcc": "5814"
+    },
+    {
+      "bank_memo": "CLEVELAND LIQUOR Cleveland OH TRN-B4D1C6",
+      "amount": 35.00,
+      "mcc": "5921"
+    },
+    {
+      "bank_memo": "MEMPHIS BARBER SHOP Memphis TN TRN-6E2A5D",
+      "amount": 20.00,
+      "mcc": "7230"
+    },
+    {
+      "bank_memo": "BURGER KING #876 Portland OR TRN-9C3F1A",
+      "amount": 10.00,
+      "mcc": "5814"
+    },
+    {
+      "bank_memo": "UBER TRIP Austin TX TRN-A7E1D4",
+      "amount": 15.00,
+      "mcc": "4121"
+    },
+    {
+      "bank_memo": "SAN ANTONIO MOVIE THEATER San Antonio TX TRN-E4F2C1",
+      "amount": 28.00,
+      "mcc": "7832"
+    },
+    {
+      "bank_memo": "DISNEY STORE Orlando FL TRN-7D9C6A",
+      "amount": 55.00,
+      "mcc": "5945"
+    },
+    {
+      "bank_memo": "KANSAS CITY GROCERY STORE Kansas City MO TRN-C5E8F4",
+      "amount": 80.00,
+      "mcc": "5411"
+    },
+    {
+      "bank_memo": "INDIANAPOLIS FITNESS Indianapolis IN TRN-2A1B4D",
+      "amount": 50.00,
+      "mcc": "7997"
+    },
+    {
+      "bank_memo": "COSTCO WHOLESALE Jacksonville FL TRN-D8F4E2",
+      "amount": 150.00,
+      "mcc": "5300"
+    },
+    {
+      "bank_memo": "APPLE.COM Columbus OH TRN-B1A9D4",
+      "amount": 99.00,
+      "mcc": "5732"
+    },
+    {
+      "bank_memo": "NASHVILLE GAS STATION Nashville TN TRN-8C9F7E",
+      "amount": 35.00,
+      "mcc": "5541"
+    },
+    {
+      "bank_memo": "RALEIGH BAR & GRILL Raleigh NC TRN-8C9A4B",
+      "amount": 45.00,
+      "mcc": "5812"
+    },
+    {
+      "bank_memo": "DENVER APPAREL Denver CO TRN-F4E1D3",
+      "amount": 60.00,
+      "mcc": "5651"
+    },
+    {
+      "bank_memo": "SEATTLE FLOWER SHOP Seattle WA TRN-3B2E1C",
+      "amount": 30.00,
+      "mcc": "5193"
+    },
+    {
+      "bank_memo": "SALT LAKE CITY ZOO Salt Lake City UT TRN-A8C5B9",
+      "amount": 20.00,
+      "mcc": "7998"
+    },
+    {
+      "bank_memo": "BOSTON LIQUOR Boston MA TRN-F1D7E8",
+      "amount": 40.00,
+      "mcc": "5921"
+    },
+    {
+      "bank_memo": "UBER RIDE Chicago IL TRN-B4E9C1",
+      "amount": 18.00,
+      "mcc": "4121"
+    },
+    {
+      "bank_memo": "MIAMI T-SHIRTS Miami FL TRN-6C8A4F",
+      "amount": 25.00,
+      "mcc": "5699"
+    },
+    {
+      "bank_memo": "MACY'S INC New York NY TRN-9D2E5B",
+      "amount": 120.00,
+      "mcc": "5651"
+    },
+    {
+      "bank_memo": "HOUSTON MOVIE THEATER Houston TX TRN-5A1C8D",
+      "amount": 30.00,
+      "mcc": "7832"
+    },
+    {
+      "bank_memo": "LA FITNESS Los Angeles CA TRN-D7F2A4",
+      "amount": 50.00,
+      "mcc": "7997"
+    },
+    {
+      "bank_memo": "TARGET #987 Phoenix AZ TRN-8E3B6C",
+      "amount": 45.00,
+      "mcc": "5411"
+    }
+  ]

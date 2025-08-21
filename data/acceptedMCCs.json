@@ -1,0 +1,58 @@
+[
+    {
+      "mcc": "8011",
+      "description": "Doctors"
+    },
+    {
+      "mcc": "8021",
+      "description": "Dentists and Orthodontists"
+    },
+    {
+      "mcc": "8041",
+      "description": "Chiropractors"
+    },
+    {
+      "mcc": "8042",
+      "description": "Optometrists and Ophthalmologists"
+    },
+    {
+      "mcc": "8043",
+      "description": "Opticians, Optical Goods, and Eyeglasses"
+    },
+    {
+      "mcc": "8049",
+      "description": "Health Practitioners (not elsewhere classified)"
+    },
+    {
+      "mcc": "8050",
+      "description": "Nursing and Personal Care Facilities"
+    },
+    {
+      "mcc": "8062",
+      "description": "Hospitals"
+    },
+    {
+      "mcc": "8071",
+      "description": "Medical and Dental Laboratories"
+    },
+    {
+      "mcc": "8099",
+      "description": "Health Practitioners and Medical Services"
+    },
+    {
+      "mcc": "5912",
+      "description": "Drug Stores and Pharmacies"
+    },
+    {
+      "mcc": "4119",
+      "description": "Ambulance Services"
+    },
+    {
+      "mcc": "5047",
+      "description": "Medical, Dental, and Hospital Equipment"
+    },
+    {
+      "mcc": "5975",
+      "description": "Hearing Aids Sales"
+    }
+  ]
