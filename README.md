@@ -6,7 +6,7 @@ Follow these steps to run the Next HSA application locally:
 
 1. **Clone the repository and navigate to the project directory**
    ```bash
-   git clone <repository-url>
+   git clone [https://github.com/campcollins/next-hsa.git](https://github.com/campcollins/next-hsa.git)
    cd hsa
    ```
 
