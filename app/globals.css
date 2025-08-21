@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
+/* Only apply scroll-padding-top when not on dashboard */
+html:not(.dashboard-page) {
   scroll-padding-top: 5rem; /* 80px - accounts for sticky header */
 } 

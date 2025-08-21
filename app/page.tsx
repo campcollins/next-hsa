@@ -101,6 +101,19 @@ export default function Home() {
         });
     }, [checkAuthToken]);
 
+    // Handle dashboard class for scroll behavior and scroll to top on login
+    useEffect(() => {
+        if (typeof document !== 'undefined') {
+            if (currentUser) {
+                document.documentElement.classList.add('dashboard-page');
+                // Scroll to top when user logs in
+                window.scrollTo(0, 0);
+            } else {
+                document.documentElement.classList.remove('dashboard-page');
+            }
+        }
+    }, [currentUser]);
+
     const fetchCategories = async () => {
         try {
             const response = await fetch('/api/medical-expenses/categories');
@@ -162,6 +175,8 @@ export default function Home() {
                 await fetchAccountSummary(data.user.id);
                 setRegisterForm({ email: '', password: '', first_name: '', last_name: '' });
                 setIsAuthModalOpen(false);
+                // Scroll to top after successful registration
+                window.scrollTo(0, 0);
             } else {
                 setMessage(data.error);
             }
@@ -198,6 +213,8 @@ export default function Home() {
                 await fetchRecentTransactions(data.user.id);
                 await fetchAccountSummary(data.user.id);
                 setIsAuthModalOpen(false);
+                // Scroll to top after successful login
+                window.scrollTo(0, 0);
             } else {
                 setMessage(data.error);
             }

@@ -56,6 +56,9 @@ export default function AuthModal({
                             onClick={() => {
                                 setShowLogin(true);
                                 setMessage('');
+                                // Clear forms when switching tabs
+                                setLoginForm({ email: '', password: '' });
+                                setRegisterForm({ email: '', password: '', first_name: '', last_name: '' });
                             }}
                             className={`flex-1 py-2 px-4 rounded-l-lg font-medium transition-colors ${showLogin ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
                                 }`}
@@ -66,6 +69,9 @@ export default function AuthModal({
                             onClick={() => {
                                 setShowLogin(false);
                                 setMessage('');
+                                // Clear forms when switching tabs
+                                setLoginForm({ email: '', password: '' });
+                                setRegisterForm({ email: '', password: '', first_name: '', last_name: '' });
                             }}
                             className={`flex-1 py-2 px-4 rounded-r-lg font-medium transition-colors ${!showLogin ? 'bg-blue-600 text-white' : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
                                 }`}

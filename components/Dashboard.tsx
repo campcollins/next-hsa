@@ -68,7 +68,7 @@ export default function Dashboard({
     setMessage
 }: DashboardProps) {
     return (
-        <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 flex flex-col">
+        <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 flex flex-col dashboard-page">
             {/* Header */}
             <Header
                 isLoggedIn={true}
