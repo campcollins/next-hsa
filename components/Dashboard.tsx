@@ -124,7 +124,7 @@ export default function Dashboard({
                     {/* Account Overview */}
                     <div className="bg-white rounded-2xl shadow-lg p-8 border border-gray-100">
                         <h2 className="text-2xl font-bold text-gray-900 mb-6">Account Overview</h2>
-                        {accountSummary && (
+                        {accountSummary ? (
                             <div className="space-y-6">
                                 <div className="bg-gradient-to-r from-[#1a365d] to-[#2d5a87] rounded-xl p-6 text-white">
                                     <p className="text-sm opacity-90 font-medium mb-2">Current Balance</p>
@@ -139,6 +139,24 @@ export default function Dashboard({
                                     <div className="bg-red-50 border border-red-200 rounded-xl p-4">
                                         <p className="text-sm text-red-600 font-medium mb-1">Total Expenses</p>
                                         <p className="text-2xl font-bold text-red-700">${accountSummary.total_expenses.toFixed(2)}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        ) : (
+                            <div className="space-y-6">
+                                <div className="bg-gradient-to-r from-[#1a365d] to-[#2d5a87] rounded-xl p-6 text-white">
+                                    <p className="text-sm opacity-90 font-medium mb-2">Current Balance</p>
+                                    <p className="text-4xl font-bold">$0.00</p>
+                                </div>
+
+                                <div className="grid grid-cols-2 gap-4">
+                                    <div className="bg-green-50 border border-green-200 rounded-xl p-4">
+                                        <p className="text-sm text-green-600 font-medium mb-1">Total Deposits</p>
+                                        <p className="text-2xl font-bold text-green-700">$0.00</p>
+                                    </div>
+                                    <div className="bg-red-50 border border-red-200 rounded-xl p-4">
+                                        <p className="text-sm text-red-600 font-medium mb-1">Total Expenses</p>
+                                        <p className="text-2xl font-bold text-red-700">$0.00</p>
                                     </div>
                                 </div>
                             </div>

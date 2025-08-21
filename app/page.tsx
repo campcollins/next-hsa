@@ -159,6 +159,7 @@ export default function Home() {
                 await fetchAccount(data.user.id);
                 await fetchVirtualCard(data.user.id);
                 await fetchRecentTransactions(data.user.id);
+                await fetchAccountSummary(data.user.id);
                 setRegisterForm({ email: '', password: '', first_name: '', last_name: '' });
                 setIsAuthModalOpen(false);
             } else {
@@ -195,6 +196,7 @@ export default function Home() {
                 await fetchAccount(data.user.id);
                 await fetchVirtualCard(data.user.id);
                 await fetchRecentTransactions(data.user.id);
+                await fetchAccountSummary(data.user.id);
                 setIsAuthModalOpen(false);
             } else {
                 setMessage(data.error);
