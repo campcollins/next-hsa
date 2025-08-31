@@ -1,11 +1,15 @@
 # Next HSA: A Modern Health Savings Account Application
 
+## Project Overview
+
+Next HSA is a web application that simulates the basic lifecycle of a Health Savings Account (HSA). I built this as part of a simple, quick turnaround project with the goal to showcase some basic web development skills and documentation abilities. The application provides a simplified experience for managing HSA funds, including account creation, funding through deposits, virtual card issuance, and transaction processing with automatic validation of (simulated) medical expenses based on IRS guidelines.
+
 ## Demo Video
-https://www.loom.com/share/e62efc03d7584896ae511d45d6952ed2
+[![Demo Video](https://cdn.loom.com/sessions/thumbnails/e62efc03d7584896ae511d45d6952ed2-with-play.gif)](https://www.loom.com/share/e62efc03d7584896ae511d45d6952ed2)
 
 ## Getting Started
 
-Follow these steps to run the Next HSA application locally:
+If you want to run the Next HSA application locally, follow these steps:
 
 1. **Clone the repository and navigate to the project directory**
    ```bash
@@ -25,10 +29,6 @@ Follow these steps to run the Next HSA application locally:
 
 4. **View the application in your browser**
    Open your browser and navigate to `http://localhost:3000`. If this port is in use, the terminal will show an alternative port number (e.g., `http://localhost:3001`).
-
-## Project Overview
-
-Next HSA is a web application that simulates the complete lifecycle of a Health Savings Account (HSA). The application provides a simplified experience for managing HSA funds, including account creation, funding through deposits, virtual card issuance, and transaction processing with automatic validation of (simulated) medical expenses based on IRS guidelines.
 
 ## Key Features
 
