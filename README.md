@@ -5,7 +5,7 @@
 Next HSA is a web application that simulates the basic lifecycle of a Health Savings Account (HSA). I built this as part of a simple, quick turnaround project with the goal to showcase some basic web development skills and documentation abilities. The application provides a simplified experience for managing HSA funds, including account creation, funding through deposits, virtual card issuance, and transaction processing with automatic validation of (simulated) medical expenses based on IRS guidelines.
 
 ## Demo Video
-[![Demo Video](https://cdn.loom.com/sessions/thumbnails/e62efc03d7584896ae511d45d6952ed2-with-play.gif)](https://www.loom.com/share/e62efc03d7584896ae511d45d6952ed2)
+<iframe src="https://www.loom.com/embed/e62efc03d7584896ae511d45d6952ed2" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Getting Started
 
